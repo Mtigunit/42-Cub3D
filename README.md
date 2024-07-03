@@ -80,4 +80,3 @@ Here is some pictures from the game:
 ![animation2](assets/images/animation2.gif)
 ![Screenshot1](assets/images/Screenshot1.png)
 ![Screenshot2](assets/images/Screenshot2.png)
-![Screenshot3](assets/images/Screenshot3.png)
